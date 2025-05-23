@@ -1,4 +1,4 @@
-# Research Topic Prediction Project Analysis
+# PaperScope: Multi-Label Topic Classification Using NLP
 
 ## Project Overview
 
