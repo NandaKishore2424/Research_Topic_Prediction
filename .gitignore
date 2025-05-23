@@ -1,0 +1,21 @@
+# Data files (these might be large)
+data/*.csv
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Model files (if you save any)
+*.pkl
+*.h5
+
+# Output files
+submission2.csv
